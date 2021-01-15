@@ -1,0 +1,1 @@
+from djangoecommerce.wsgi import application
