@@ -46,3 +46,4 @@ Traceback (most recent call last):
 TypeError: unsupported operand type(s) for +: 'PosixPath' and 'str'
 Not Found: /robots.txt
 Not Found: /asset-manifest.json
+Not Found: /favicon.ico
